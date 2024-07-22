@@ -1,0 +1,17 @@
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Cagatay.ok\Desktop\API dersleri\Staj_Project\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

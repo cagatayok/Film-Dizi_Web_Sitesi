@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFA582F-C262-47F5-870D-63C981AC6952}|DataAccess\\DataAccess.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\dataaccess\\concrete\\entityframework\\effilmdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFA582F-C262-47F5-870D-63C981AC6952}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\effilmdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFA582F-C262-47F5-870D-63C981AC6952}|DataAccess\\DataAccess.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\dataaccess\\concrete\\entityframework\\efdizidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFA582F-C262-47F5-870D-63C981AC6952}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efdizidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFA582F-C262-47F5-870D-63C981AC6952}|DataAccess\\DataAccess.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\dataaccess\\abstract\\idizidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFA582F-C262-47F5-870D-63C981AC6952}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\idizidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFA582F-C262-47F5-870D-63C981AC6952}|DataAccess\\DataAccess.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\dataaccess\\abstract\\ifilmdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFA582F-C262-47F5-870D-63C981AC6952}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\ifilmdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFA582F-C262-47F5-870D-63C981AC6952}|DataAccess\\DataAccess.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\dataaccess\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFA582F-C262-47F5-870D-63C981AC6952}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B3D6D5-9F08-4D78-8624-5C31835C9D48}|Proje\\Proje.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\proje\\controllers\\stajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B3D6D5-9F08-4D78-8624-5C31835C9D48}|Proje\\Proje.csproj|solutionrelative:proje\\controllers\\stajcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B3D6D5-9F08-4D78-8624-5C31835C9D48}|Proje\\Proje.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\proje\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B3D6D5-9F08-4D78-8624-5C31835C9D48}|Proje\\Proje.csproj|solutionrelative:proje\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E5AEB-4740-4607-8C2B-F4C9D2DA3414}|Entities\\Entities.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\entities\\concrete\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E5AEB-4740-4607-8C2B-F4C9D2DA3414}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E5AEB-4740-4607-8C2B-F4C9D2DA3414}|Entities\\Entities.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\entities\\concrete\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E5AEB-4740-4607-8C2B-F4C9D2DA3414}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E5AEB-4740-4607-8C2B-F4C9D2DA3414}|Entities\\Entities.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\entities\\concrete\\dizi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E5AEB-4740-4607-8C2B-F4C9D2DA3414}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\dizi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E5AEB-4740-4607-8C2B-F4C9D2DA3414}|Entities\\Entities.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E5AEB-4740-4607-8C2B-F4C9D2DA3414}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92E5AEB-4740-4607-8C2B-F4C9D2DA3414}|Entities\\Entities.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92E5AEB-4740-4607-8C2B-F4C9D2DA3414}|Entities\\Entities.csproj|solutionrelative:entities\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B895990-D7BC-40C4-BF23-9D02BF886316}|Business\\Business.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\business\\concrete\\dizimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B895990-D7BC-40C4-BF23-9D02BF886316}|Business\\Business.csproj|solutionrelative:business\\concrete\\dizimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B895990-D7BC-40C4-BF23-9D02BF886316}|Business\\Business.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\business\\abstract\\idiziservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B895990-D7BC-40C4-BF23-9D02BF886316}|Business\\Business.csproj|solutionrelative:business\\abstract\\idiziservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAFA582F-C262-47F5-870D-63C981AC6952}|DataAccess\\DataAccess.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\dataaccess\\concrete\\entityframework\\stajdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAFA582F-C262-47F5-870D-63C981AC6952}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\stajdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B895990-D7BC-40C4-BF23-9D02BF886316}|Business\\Business.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\business\\abstract\\ifilmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B895990-D7BC-40C4-BF23-9D02BF886316}|Business\\Business.csproj|solutionrelative:business\\abstract\\ifilmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B895990-D7BC-40C4-BF23-9D02BF886316}|Business\\Business.csproj|c:\\users\\cagatay.ok\\desktop\\api dersleri\\staj_project\\business\\concrete\\filmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B895990-D7BC-40C4-BF23-9D02BF886316}|Business\\Business.csproj|solutionrelative:business\\concrete\\filmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Entities\\Concrete\\Kullanici.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Entities\\Concrete\\Kullanici.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Kullanici.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:36:15.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dizi.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Entities\\Concrete\\Dizi.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Dizi.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Entities\\Concrete\\Dizi.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Dizi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:35:58.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDiziDal.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\DataAccess\\Abstract\\IDiziDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IDiziDal.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\DataAccess\\Abstract\\IDiziDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IDiziDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:34:55.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Proje\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "Proje\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Proje\\Controllers\\FileController.cs",
+              "RelativeToolTip": "Proje\\Controllers\\FileController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:25:46.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFilmDal.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\DataAccess\\Abstract\\IFilmDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IFilmDal.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\DataAccess\\Abstract\\IFilmDal.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IFilmDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:52:10.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\DataAccess\\Abstract\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Abstract\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\DataAccess\\Abstract\\IEntityRepository.cs",
+              "RelativeToolTip": "DataAccess\\Abstract\\IEntityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:52:07.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StajController.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Proje\\Controllers\\StajController.cs",
+              "RelativeDocumentMoniker": "Proje\\Controllers\\StajController.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Proje\\Controllers\\StajController.cs",
+              "RelativeToolTip": "Proje\\Controllers\\StajController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:31:02.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfFilmDal.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\DataAccess\\Concrete\\EntityFramework\\EfFilmDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfFilmDal.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\DataAccess\\Concrete\\EntityFramework\\EfFilmDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfFilmDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:58:42.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfDiziDal.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\DataAccess\\Concrete\\EntityFramework\\EfDiziDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfDiziDal.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\DataAccess\\Concrete\\EntityFramework\\EfDiziDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfDiziDal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:52:20.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Entities\\Concrete\\Category.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Category.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Entities\\Concrete\\Category.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:35:56.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDiziService.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Business\\Abstract\\IDiziService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IDiziService.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Business\\Abstract\\IDiziService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IDiziService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T12:08:26.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Entities\\Concrete\\Film.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Film.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Entities\\Concrete\\Film.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Film.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:59:02.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Entities\\Abstract\\IEntity.cs",
+              "RelativeDocumentMoniker": "Entities\\Abstract\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Entities\\Abstract\\IEntity.cs",
+              "RelativeToolTip": "Entities\\Abstract\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:58:59.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FilmManager.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Business\\Concrete\\FilmManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\FilmManager.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Business\\Concrete\\FilmManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\FilmManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:33:16.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IFilmService.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Business\\Abstract\\IFilmService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IFilmService.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Business\\Abstract\\IFilmService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IFilmService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:34:28.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DiziManager.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Business\\Concrete\\DiziManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\DiziManager.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\Business\\Concrete\\DiziManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\DiziManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:34:41.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StajDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\DataAccess\\Concrete\\EntityFramework\\StajDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\StajDbContext.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\API dersleri\\Staj_Project\\DataAccess\\Concrete\\EntityFramework\\StajDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\StajDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:52:48.928Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
